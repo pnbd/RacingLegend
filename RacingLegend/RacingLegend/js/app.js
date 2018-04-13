@@ -1,3 +1,3 @@
-﻿document.addEventListener(onload, function e{
-
+﻿document.addEventListener('DOMContentLoaded', function main(e) {
+    console.log("Correu Bem");
 });
